@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function () {
   function fetchWeather() {
     const weatherDiv = document.getElementById('weather');
     const city = "Bengaluru";
-    const apiKey = "8908a2b2f1d2222e731d9bf7271c8d80";
+    const apiKey = "your_key";
 
     fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${apiKey}`)
       .then(res => res.json())
