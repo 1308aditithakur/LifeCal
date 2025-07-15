@@ -92,15 +92,10 @@ No more bouncing between five different apps. No more cold interfaces or clutter
 
 ## 🖼️ Screenshots
 
-> Add these files in a `/screenshots` folder in your repo.
-
-| ![](screenshots/1.png) | ![](screenshots/2.png) | ![](screenshots/3.png) |
+| ![](1.png) | ![](2.png) | ![](3.png) |
 |------------------------|------------------------|------------------------|
 
-| ![](screenshots/4.png) | ![](screenshots/5.png) | ![](screenshots/6.png) |
-|------------------------|------------------------|------------------------|
-
-| ![](screenshots/7.png) | ![](screenshots/8.png) | ![](screenshots/9.png) |
+| ![](4.png) | ![](5.png) | ![](6.png) |
 |------------------------|------------------------|------------------------|
 
 ---
