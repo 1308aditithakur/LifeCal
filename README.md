@@ -2,17 +2,31 @@
 
 **LifeCal** is a warm, minimalist, and visually uplifting life planner web app that helps you organize and balance every part of your personal life—from events and workouts to journaling and mindful routines.
 
-![LifeCal Screenshot](screenshots/lifecal-home.png)
-
 ---
 
 ## 🌟 Vision
 
-I built LifeCal with a simple but strong vision:  
+I built **LifeCal** out of pure necessity—and a little bit of frustration.
+
+I’ve always been someone who *needs* to stay organized. Whether it’s planning out my week, journaling my thoughts, tracking my steps, or just reminding myself to drink more water—I feel calmer when everything’s written down.
+
+But until now, that meant living across a bunch of different apps:
+- 📅 Apple Calendar for events and reminders  
+- 💪 Apple Fitness for workouts and step counts  
+- 🩺 Apple Health for tracking sleep, heart rate, and more  
+- 📝 Notes app for journaling and brain dumps  
+- 📋 Reminders app for my to-do list and grocery runs  
+- 🧘 Random sticky notes for water intake, mood checks, and meditation goals
+
+It worked—kind of. But it felt scattered. Disjointed. Cold. I was jumping between apps made by different teams, designed for different purposes, none of which truly *fit* the way I wanted to plan my life.
+
+So I built **LifeCal** with a simple but strong vision:  
 > ✨ *To give your personal life the same beautiful, functional planning system your work calendar has—but with more soul.*
 
-In a world full of productivity apps that feel cold, cluttered, or overly corporate, LifeCal is a soft space.  
-It’s your peachy personal planner—a dashboard to check in with yourself, not just your deadlines.
+In a world full of productivity tools that feel too corporate, too serious, or too sterile, **LifeCal** is a soft space.  
+It’s your peachy personal planner—a one-stop dashboard designed to help you *check in with yourself*, not just your deadlines.
+
+No more bouncing between five different apps. No more cold interfaces or cluttered lists. Just one calm, thoughtful space where your events, routines, health, moods, dreams, and joys can all live together beautifully.
 
 ---
 
@@ -69,10 +83,6 @@ It’s your peachy personal planner—a dashboard to check in with yourself, not
 | Calendar       | [FullCalendar.js](https://fullcalendar.io/) |
 | Charts         | [Chart.js](https://www.chartjs.org/)        |
 | Weather API    | [OpenWeatherMap](https://openweathermap.org/) |
-| Confetti       | [Canvas-Confetti](https://www.npmjs.com/package/canvas-confetti) |
-| Fonts & Icons  | Google Fonts (Poppins), Emoji Unicode |
-| Storage        | `localStorage` (offline persistence) |
-| Styling        | Vanilla CSS, Gradients, Light/Dark Mode |
 
 ---
 
@@ -80,23 +90,22 @@ It’s your peachy personal planner—a dashboard to check in with yourself, not
 
 > Add these files in a `/screenshots` folder in your repo.
 
-| 📅 Calendar | 💪 Fitness | 🎯 Rings |
-|------------|------------|----------|
-| ![Calendar](screenshots/calendar.png) | ![Fitness](screenshots/fitness.png) | ![Rings](screenshots/ring.png) |
+| ![](screenshots/1.png) | ![](screenshots/2.png) | ![](screenshots/3.png) |
+|------------------------|------------------------|------------------------|
+
+| ![](screenshots/4.png) | ![](screenshots/5.png) | ![](screenshots/6.png) |
+|------------------------|------------------------|------------------------|
+
+| ![](screenshots/7.png) | ![](screenshots/8.png) | ![](screenshots/9.png) |
+|------------------------|------------------------|------------------------|
 
 ---
 
 ## 🧑‍💻 Developer Notes
 
-- Built from scratch using only HTML, CSS, and vanilla JavaScript.
+- Built from scratch using only HTML, CSS, and JavaScript.
 - Works entirely offline thanks to `localStorage`.
 - Designed to feel soft, human, and joyful.
-
----
-
-## 💡 Inspiration
-
-I wanted something softer than Google Calendar and more personal than Notion—something that celebrates the *life* part of life planning, not just the hustle.
 
 ---
 
@@ -104,9 +113,5 @@ I wanted something softer than Google Calendar and more personal than Notion—s
 
 This is a personal passion project, but if you'd like to suggest features or report bugs, feel free to open an issue or fork the project.
 
----
 
-## 📅 License
-
-MIT License © Aditi
 
