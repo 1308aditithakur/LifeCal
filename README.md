@@ -59,6 +59,10 @@ No more bouncing between five different apps. No more cold interfaces or clutter
 - Vital readings (heart rate, blood pressure)
 - Weekly health summary charts
 
+### Other
+- Dark Toggle
+- Real Time Weather Detection
+
 ---
 
 ## 🔜 Upcoming Features
